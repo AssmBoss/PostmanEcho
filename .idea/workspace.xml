@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0829c24-2715-4109-abaa-45258230e6e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/postmanecho/PostmanEchoTestPost.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/postmanecho/PostmanEchoTestPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/postmanecho/PostmanEchoTestPost.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +17,16 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,7 +59,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="PostmanEchoTestPost" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="PostmanEchoTestPost (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -74,7 +84,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.PostmanEchoTestPost" />
+        <item itemvalue="Gradle.PostmanEchoTestPost (1)" />
       </list>
     </recent_temporary>
   </component>
